@@ -1,0 +1,57 @@
+body{
+  background-color: #393E46;
+
+}
+h1{
+
+  text-align: center;
+margin-top: 50px;
+font-size: 10rem;
+color: #4ECCA3;
+font-family: 'Lobster', cursive;
+}
+.player_one{
+  height: 100px;
+  color: #4ECCA3;
+  padding-left: 39%;
+  margin-top: 100px;
+  font-size: 4rem;
+  display:inline-block;
+  position: relative;
+  font-family: 'Indie Flower', cursive;
+
+
+}
+.player_two{
+  height: 100px;
+  color: #4ECCA3;
+  display:inline-block;
+  position: relative;
+  padding-left:  200px;
+  font-family: 'Indie Flower', cursive;
+
+}
+.dices{
+  text-align: center;
+  margin-bottom: 160px;
+}
+.first_image{
+  margin: auto 40px;
+}
+.second_image{
+  margin: auto 70px;
+}
+
+h5{
+
+  color: red;
+  display: inline-block;
+  position: relative;
+  left: 800px;
+color: #E4E9BE;
+
+}
+footer{
+  font-family: 'Indie Flower', cursive;
+  color: #EEEEEE;
+}
